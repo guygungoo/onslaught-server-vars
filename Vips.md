@@ -1,1 +1,7 @@
-# onslaught-server-vars
+{
+  "vips": [
+		"feelon",
+		""
+	]
+
+}
